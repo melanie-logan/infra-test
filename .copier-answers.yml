@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: 4a2fff5
+_src_path: https://github.com/cagov/caldata-infrastructure-template
+dbt_profile_name: infra_test
+dbt_target: Snowflake
+email_address: melanie.logan@innovation.ca.gov
+friendly_project_name: Infrastructure Test
+license: MIT
+project_name: infra-test
+team_name: Data Services and Engineering
